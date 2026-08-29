@@ -1,0 +1,23 @@
+# Maven
+target/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uploaded content
+src/main/webapp/uploads/*
+!src/main/webapp/uploads/default-ganpati.jpg
+!src/main/webapp/uploads/default-symbol.png
+
+# Generated receipts
+src/main/webapp/receipts/
